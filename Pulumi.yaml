@@ -1,0 +1,6 @@
+name: pulumi-remote-host-issue
+description: Demo for issue after latest patch
+runtime:
+  name: nodejs
+  options:
+    typescript: false

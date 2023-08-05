@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "pulumi-remote-host-issue",
+  "version": "0.0.0",
+  "description": "Pulumi docker RemoteImage connection issue demonstration",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "20.4.7"
+  },
+  "dependencies": {
+    "@pulumi/docker": "4.3.0",
+    "@pulumi/pulumi": "3.77.1"
+  }
+}
